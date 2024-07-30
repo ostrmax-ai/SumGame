@@ -54,6 +54,7 @@
             android:layout_gravity="bottom"
             android:text="@string/button_understand"
             app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginHorizontal="10dp"
             />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
